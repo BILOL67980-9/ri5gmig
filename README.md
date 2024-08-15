@@ -56,101 +56,84 @@ as functions.**
 
 # JavaScript String method charAt()
 
-The charAt() method returns the character at a specified index (position) in a string.
-The index of the first character is 0, the second 1, ...
-The index of the last character is string length - 1 .
++ The charAt() method returns the character at a specified index (position) in a string.
++ The index of the first character is 0, the second 1, ...
++ The index of the last character is string length - 1 .
 
-![alt text](image-1.png)
 
 # JavaScript String method at()
 
 
-The charAt() method returns the character at a specified index (position) in a string.
-The index of the first character is 0, the second 1, ...
-The index of the last character is string length - 1 .
++ The charAt() method returns the character at a specified index (position) in a string.
++ The index of the first character is 0, the second 1, ...
++ The index of the last character is string length - 1 .
 
-![alt text](image-1.png)
 
 # JavaScript String method charAt()
 
-The charAt() method returns the character at a specified index (position) in a string.
-The index of the first character is 0, the second 1, ...
-The index of the last character is string length - 1 .
++ The charAt() method returns the character at a specified index (position) in a string.
++ The index of the first character is 0, the second 1, ...
++ The index of the last character is string length - 1 .
 
-![alt text](image-1.png)
 
 # JavaScript String method charAt()
 
-The charAt() method returns the character at a specified index (position) in a string.
-The index of the first character is 0, the second 1, ...
-The index of the last character is string length - 1 .
++ The charAt() method returns the character at a specified index (position) in a string.
++ The index of the first character is 0, the second 1, ...
++ The index of the last character is string length - 1 .
 
-![alt text](image-1.png)
 
 # JavaScript String method charAt()
 
-The charAt() method returns the character at a specified index (position) in a string.
-The index of the first character is 0, the second 1, ...
-The index of the last character is string length - 1 .
++ The charAt() method returns the character at a specified index (position) in a string.
++ The index of the first character is 0, the second 1, ...
++ The index of the last character is string length - 1 .
 
-![alt text](image-1.png)
 
 # JavaScript String method charAt()
 
-The charAt() method returns the character at a specified index (position) in a string.
-The index of the first character is 0, the second 1, ...
-The index of the last character is string length - 1 .
++ The charAt() method returns the character at a specified index (position) in a string.
++ The index of the first character is 0, the second 1, ...
++ The index of the last character is string length - 1 .
 
-![alt text](image-1.png)
-
-![alt text](image-3.png)
-
-# JavaScript Number methods Math.round(),ceil(),floor()
-
-**The Math.floor() function rounds down a number to the next smallest integer.**
-
-![alt text](image-4.png)
 
 
 # JavaScript Number methods Math.round(),ceil(),floor()
 
-**The Math.floor() function rounds down a number to the next smallest integer.**
++ **The Math.floor() function rounds down a number to the next smallest integer.**
 
-![alt text](image-4.png)
+# JavaScript Number methods Math.round(),ceil(),floor()
+
++ **The Math.floor() function rounds down a number to the next smallest integer.**
+
 
 
 # JavaScript Number methods Math.round(),ceil(),floor()
 
-**The Math.floor() function rounds down a number to the next smallest integer.**
++ **The Math.floor() function rounds down a number to the next smallest integer.**
 
-![alt text](image-4.png)
-
-# JavaScript Number methods Math.round(),ceil(),floor()
-
-**The Math.floor() function rounds down a number to the next smallest integer.**
-
-![alt text](image-4.png)
 
 # JavaScript Number methods Math.round(),ceil(),floor()
 
-**The Math.floor() function rounds down a number to the next smallest integer.**
++ **The Math.floor() function rounds down a number to the next smallest integer.**
 
-![alt text](image-4.png)
-
-# JavaScript Number methods Math.round(),ceil(),floor()
-
-**The Math.floor() function rounds down a number to the next smallest integer.**
-
-![alt text](image-4.png)
 
 # JavaScript Number methods Math.round(),ceil(),floor()
 
-**The Math.floor() function rounds down a number to the next smallest integer.**
++ **The Math.floor() function rounds down a number to the next smallest integer.**
 
-![alt text](image-4.png)
 
 # JavaScript Number methods Math.round(),ceil(),floor()
 
-**The Math.floor() function rounds down a number to the next smallest integer.**
++ **The Math.floor() function rounds down a number to the next smallest integer.**
 
-![alt text](image-4.png)
+
+# JavaScript Number methods Math.round(),ceil(),floor()
+
++ **The Math.floor() function rounds down a number to the next smallest integer.**
+
+
+# JavaScript Number methods Math.round(),ceil(),floor()
+
++ **The Math.floor() function rounds down a number to the next smallest integer.**
+
