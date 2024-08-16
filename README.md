@@ -53,6 +53,8 @@ as functions.**
 >
 >➢ **toUpperCase()**
 
+![image](https://github.com/user-attachments/assets/b6dc4649-80d4-4bdf-80c3-2c52b9e1e369)
+
 
 # JavaScript String method charAt()
 
@@ -96,6 +98,7 @@ JavaScript String method split()
 + The index of the first character is 0, the second 1, ...
 + The index of the last character is string length - 1 .
 
+![image](https://github.com/user-attachments/assets/2dba6134-e474-4476-82a4-b4740b897cf4)
 
 
 # JavaScript Number methods Math.round(),ceil(),floor()
